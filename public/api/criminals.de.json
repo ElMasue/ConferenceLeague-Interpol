@@ -1,0 +1,142 @@
+[
+  {
+    "id": "criminal-1",
+    "name": "Antonio Romero",
+    "crime": "Spanischer Verbrecher, Verbrechen: Sexuelle Belästigung",
+    "imageUrl": "/api/images/criminal-1.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-2",
+    "name": "INONE BENARROCH",
+    "crime": "Israelischer Verbrecher, Verbrechen: BETRUG DURCH EINE ORGANISIERTE BANDE, GELDWÄSCHE: BETEILIGUNG AN EINER INVESTITIONSOPERATION, VERSCHLEIERUNG ODER UMWANDLUNG DES ERLÖSES AUS EINEM BETRUG EINER ORGANISIERTEN BANDE, BETEILIGUNG AN EINER KRIMINELLEN VEREINIGUNG ZUR VORBEREITUNG EINER MIT 10 JAHREN HAFT BEDROHTEN STRAFTAT",
+    "imageUrl": "/api/images/criminal-2.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-3",
+    "name": "LULIU ANDREI ROMULUS BOILA",
+    "crime": "Israelischer Verbrecher, Verbrechen: - Mord - Beschädigung oder Zerstörung fremden Eigentums mit für Menschen gefährlichen Mitteln",
+    "imageUrl": "/api/images/criminal-3.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-4",
+    "name": "VLADIMIR DOBRININ",
+    "crime": "Russischer Verbrecher, Verbrechen: 1. Organisation und Durchführung von Glücksspielen und anderen riskanten Spielen. 2. Geldwäsche",
+    "imageUrl": "/api/images/criminal-4.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-5",
+    "name": "PIOTR PAWEL ADAMCZEWSKI",
+    "crime": "Polnischer Verbrecher, Verbrechen: Angriff mit Todesfolge, schwere Körperverletzung",
+    "imageUrl": "/api/images/criminal-5.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-6",
+    "name": "GABRIEL LOPES DA SILVA SANTOS",
+    "crime": "Brasilianischer Verbrecher, Verbrechen: Vergewaltigung von Minderjährigen",
+    "imageUrl": "/api/images/criminal-6.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-7",
+    "name": "JOSE ALMESTICA",
+    "crime": "Amerikanischer Verbrecher, Verbrechen: Flucht aus dem Gewahrsam",
+    "imageUrl": "/api/images/criminal-7.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-8",
+    "name": "WALTER JESUS MERENTES PALMA",
+    "crime": "Venezolanischer Verbrecher, Verbrechen: Totschlag",
+    "imageUrl": "/api/images/criminal-8.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-9",
+    "name": "JOHAN MARCOS SOSA FERNÁNDEZ",
+    "crime": "Uruguayischer Verbrecher, Verbrechen: Tötungsdelikt",
+    "imageUrl": "/api/images/criminal-9.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-10",
+    "name": "JUAN JOSÉ SILVA MORÁN",
+    "crime": "Guatemaltekischer Verbrecher, Verbrechen: TOTSCHLAG",
+    "imageUrl": "/api/images/criminal-10.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-11",
+    "name": "ABDELAZIZ GHRIB ALLAH",
+    "crime": "Algerischer Verbrecher, Verbrechen: Flucht",
+    "imageUrl": "/api/images/criminal-11.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-12",
+    "name": "AMRIT",
+    "crime": "Indischer Verbrecher, Verbrechen: Artikel 302: Strafe für Mord. Artikel 307: Mordversuch. Artikel 387: Drohung mit Tod oder schweren Verletzungen zum Zweck der Erpressung. Artikel 34: Von mehreren Personen mit gemeinsamer Absicht begangene Handlungen. Artikel 411: Hehlerei. Artikel 482: Strafe für die Verwendung einer gefälschten Marke auf einer Ware. Artikel 120B: Strafe für kriminelle Verschwörung. Artikel 202 - Vorsätzliches Unterlassen der Meldung einer Straftat durch eine dazu verpflichtete Person, Artikel 471 - Verwendung eines gefälschten Dokuments als echt, Artikel 201 - Herbeiführen des Verschwindens von Beweismitteln oder Angabe falscher Informationen zum Schutz des Täters gemäß indischem Strafgesetzbuch und Artikel 25 - Strafe für bestimmte Straftaten nach dem Waffengesetz, Artikel 25(6), 25(7) und 27 des Waffengesetzes.",
+    "imageUrl": "/api/images/criminal-12.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-13",
+    "name": "JESUS RAMON LAREZ MARTINEZ",
+    "crime": "Venezolanischer Verbrecher, Verbrechen: Raub, versuchter Raub, Totschlag, versuchter Mord mit erschwerenden Umständen",
+    "imageUrl": "/api/images/criminal-13.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-14",
+    "name": "ELTON CLEI BRUSNICKI",
+    "crime": "Brasilianischer Verbrecher, Verbrechen: Schwerer Totschlag. Besitz oder Tragen einer Schusswaffe ohne gesetzliche Genehmigung",
+    "imageUrl": "/api/images/criminal-14.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-15",
+    "name": "JAN MARSALEK",
+    "crime": "Österreichischer Verbrecher, Verbrechen: Falschaussage, Marktmanipulation, Untreue in einem besonders schweren Fall, organisierter Betrug",
+    "imageUrl": "/api/images/criminal-15.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-16",
+    "name": "MOHAMED LAKKIS",
+    "crime": "Libanesischer Verbrecher, Verbrechen: Mord",
+    "imageUrl": "/api/images/criminal-16.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-17",
+    "name": "KRYSTIAN ADAM BRZEZINSKI",
+    "crime": "Polnischer Verbrecher, Verbrechen: Beteiligung am Handel mit Betäubungsmitteln in großen Mengen",
+    "imageUrl": "/api/images/criminal-17.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-18",
+    "name": "BILAL HASSAN",
+    "crime": "Irakischer Verbrecher, Verbrechen: - Mordversuch an einer Person mit öffentlicher Autorität - Beihilfe zur Einreise, Bewegung oder illegalem Aufenthalt eines Ausländers in Frankreich in organisierter Bande - Beteiligung an einer kriminellen Vereinigung zur Vorbereitung einer mit 10 Jahren Haft bedrohten Straftat - Raub in organisierter Bande",
+    "imageUrl": "/api/images/criminal-18.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-19",
+    "name": "CHADRAABAL DARMAABAZAR",
+    "crime": "Mongolischer Verbrecher, Verbrechen: Mord durch eine Person, die Ehepartner, Lebensgefährte oder durch einen zivilen Solidaritätspakt mit dem Opfer verbunden ist oder war",
+    "imageUrl": "/api/images/criminal-19.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-20",
+    "name": "SAIDA GADZHIEVA",
+    "crime": "Russische Verbrecherin, Verbrechen: Beteiligung an den Aktivitäten einer gemäß russischer Gesetzgebung als terroristisch anerkannten Organisation; Beteiligung an einer bewaffneten Formation auf dem Territorium eines ausländischen Staates",
+    "imageUrl": "/api/images/criminal-20.png",
+    "type": "interpol"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "criminal-1",
+    "name": "Antonio Romero",
+    "crime": "Criminal Español, Crimen: Acoso sexual a la ruleta del pause and play",
+    "imageUrl": "/api/images/criminal-1.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-2",
+    "name": "INONE BENARROCH",
+    "crime": "Criminal Israelí, Crimen: ESTAFA REALIZADA POR UNA BANDA ORGANIZADA BLANQUEO: PARTICIPACIÓN EN UNA OPERACIÓN DE INVERSIÓN, OCULTAMIENTO O CONVERSIÓN DEL PRODUCTO DE UNA ESTAFA COMETIDA POR UNA BANDA ORGANIZADA PARTICIPACIÓN EN UNA ASOCIACIÓN ILÍCITA CON EL FIN DE PREPARAR UN DELITO CASTIGADO CON 10 AÑOS DE PRISIÓN",
+    "imageUrl": "/api/images/criminal-2.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-3",
+    "name": "LULIU ANDREI ROMULUS BOILA",
+    "crime": "Criminal Israelí, Crimen: - Asesinato - Degradación o deterioro de bienes ajenos por medios peligrosos para las personas.",
+    "imageUrl": "/api/images/criminal-3.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-4",
+    "name": "VLADIMIR DOBRININ",
+    "crime": "Criminal Ruso, Crimen: 1. Organizar y llevar a cabo juegos de azar y otros juegos basados en el riesgo. 2. Blanqueo de capitales.",
+    "imageUrl": "/api/images/criminal-4.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-5",
+    "name": "PIOTR PAWEL ADAMCZEWSKI",
+    "crime": "Criminal Polaco, Crimen: Agresión con resultado de muerte, lesiones corporales graves",
+    "imageUrl": "/api/images/criminal-5.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-6",
+    "name": "GABRIEL LOPES DA SILVA SANTOS",
+    "crime": "Criminal Brasileño, Crimen: Violación de menores",
+    "imageUrl": "/api/images/criminal-6.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-7",
+    "name": "JOSE ALMESTICA",
+    "crime": "Criminal Estadounidense, Crimen: Fugado de la custodia legal",
+    "imageUrl": "/api/images/criminal-7.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-8",
+    "name": "WALTER JESUS MERENTES PALMA",
+    "crime": "Criminal Venezolano, Crimen: Homicidio",
+    "imageUrl": "/api/images/criminal-8.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-9",
+    "name": "JOHAN MARCOS SOSA FERNÁNDEZ",
+    "crime": "Criminal Uruguayo, Crimen: Delito de Homicidio",
+    "imageUrl": "/api/images/criminal-9.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-10",
+    "name": "JUAN JOSÉ SILVA MORÁN",
+    "crime": "Criminal Guatemalteco, Crimen: HOMICIDIO",
+    "imageUrl": "/api/images/criminal-10.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-11",
+    "name": "ABDELAZIZ GHRIB ALLAH",
+    "crime": "Criminal Argelino, Crimen: Evasion",
+    "imageUrl": "/api/images/criminal-11.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-12",
+    "name": "AMRIT",
+    "crime": "Criminal Indio, Crimen: Artículo 302: Castigo por asesinato. Artículo 307: Intento de asesinato. Artículo 387: Amenazar a una persona con la muerte o con lesiones graves con el fin de cometer extorsión. Artículo 34: Actos cometidos por varias personas con una intención común. Artículo 411: Receptación de bienes robados. Artículo 482: Castigo por utilizar una marca falsa en un bien. Artículo 120B: Castigo por conspiración criminal. Artículo 202 - Omisión intencionada de informar sobre un delito por parte de una persona obligada a hacerlo, artículo 471 - Uso de un documento falsificado como si fuera auténtico, artículo 201 - Provocar la desaparición de pruebas de un delito o dar información falsa para encubrir al autor de un delito del Código Penal de la India y artículo 25 - Castigo por determinados delitos de la Ley de Armas, artículos 25(6), 25(7) y 27 de la Ley de Armas.",
+    "imageUrl": "/api/images/criminal-12.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-13",
+    "name": "JESUS RAMON LAREZ MARTINEZ",
+    "crime": "Criminal Venezolano, Crimen: Robo, intento de robo, homicidio, intento de asesinato con agravantes",
+    "imageUrl": "/api/images/criminal-13.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-14",
+    "name": "ELTON CLEI BRUSNICKI",
+    "crime": "Criminal Brasileño, Crimen: Homicidio agravado. Posesión o porte de un arma de fuego, accesorio o munición de uso prohibido o restringido sin autorización legal.",
+    "imageUrl": "/api/images/criminal-14.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-15",
+    "name": "JAN MARSALEK",
+    "crime": "Criminal Austriaco, Crimen: Falsa declaración, manipulación del mercado, abuso de confianza en un caso especialmente grave, fraude organizado de carácter repetitivo y lucrativo.",
+    "imageUrl": "/api/images/criminal-15.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-16",
+    "name": "MOHAMED LAKKIS",
+    "crime": "Criminal Libanes, Crimen: Asesinato",
+    "imageUrl": "/api/images/criminal-16.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-17",
+    "name": "KRYSTIAN ADAM BRZEZINSKI",
+    "crime": "Criminal Polaco, Crimen: Participación en la comercialización de estupefacientes en grandes cantidades.",
+    "imageUrl": "/api/images/criminal-17.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-18",
+    "name": "BILAL HASSAN",
+    "crime": "Criminal Irakí, Crimen: - Intento de asesinato de una persona con autoridad pública - Ayuda a la entrada, circulación o estancia irregular de un extranjero en Francia o en un Estado parte del Convenio de Schengen, en banda organizada - Participación en una asociación ilícita con el fin de preparar un delito castigado con 10 años de prisión - Robo en banda organizada",
+    "imageUrl": "/api/images/criminal-18.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-19",
+    "name": "CHADRAABAL DARMAABAZAR",
+    "crime": "Criminal Mongól, Crimen: Asesinato por parte de una persona que es o ha sido cónyuge, concubino o pareja vinculada a la víctima por un pacto civil de solidaridad.",
+    "imageUrl": "/api/images/criminal-19.png",
+    "type": "interpol"
+  },
+  {
+    "id": "criminal-20",
+    "name": "SAIDA GADZHIEVA",
+    "crime": "Criminal rusa, Crimen: Participación en las actividades de una organización reconocida como terrorista de conformidad con la legislación de Rusia; participación en una formación armada en el territorio de un Estado extranjero, no prevista por la legislación de ese Estado, con fines contrarios a los intereses de Rusia.",
+    "imageUrl": "/api/images/criminal-20.png",
+    "type": "interpol"
+  }
+]

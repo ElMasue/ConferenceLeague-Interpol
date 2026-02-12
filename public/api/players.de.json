@@ -1,0 +1,162 @@
+[
+  {
+    "id": "player-1",
+    "name": "Tomáš Chorý",
+    "position": "Tschechischer Fußballer, Stürmer",
+    "team": "von Viktoria Pilsen",
+    "imageUrl": "/api/images/player-1.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-2",
+    "name": "Lindon Selahi",
+    "position": "Kosovarischer Fußballer, Mittelfeldspieler",
+    "team": "von FC Ballkani",
+    "imageUrl": "/api/images/player-2.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-3",
+    "name": "Oleksandr Pikhalyonok",
+    "position": "Ukrainischer Fußballer, Mittelfeldspieler",
+    "team": "von Dnipro-1",
+    "imageUrl": "/api/images/player-3.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-4",
+    "name": "Uroš Đurđević",
+    "position": "Serbischer Fußballer, Stürmer",
+    "team": "von Partizan Belgrad",
+    "imageUrl": "/api/images/player-4.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-5",
+    "name": "Yohan Boli",
+    "position": "Ivorischer Fußballer, Stürmer",
+    "team": "von Sheriff Tiraspol",
+    "imageUrl": "/api/images/player-5.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-6",
+    "name": "Luka Capan",
+    "position": "Kroatischer Fußballer, Verteidiger",
+    "team": "von HNK Rijeka",
+    "imageUrl": "/api/images/player-6.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-7",
+    "name": "Ozan Tufan",
+    "position": "Türkischer Fußballer, Mittelfeldspieler",
+    "team": "von Alanyaspor",
+    "imageUrl": "/api/images/player-7.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-8",
+    "name": "Marko Tolić",
+    "position": "Kroatischer Fußballer, Mittelfeldspieler",
+    "team": "von Slovan Bratislava",
+    "imageUrl": "/api/images/player-8.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-9",
+    "name": "Omri Altman",
+    "position": "Israelischer Fußballer, Flügelspieler",
+    "team": "von Maccabi Tel Aviv",
+    "imageUrl": "/api/images/player-9.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-10",
+    "name": "Rafail Mamas",
+    "position": "Zypriotischer Fußballer, Verteidiger",
+    "team": "von AEK Larnaka",
+    "imageUrl": "/api/images/player-10.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-11",
+    "name": "Hong Hyun-seok",
+    "position": "Südkoreanischer Fußballer, Mittelfeldspieler",
+    "team": "von KAA Gent",
+    "imageUrl": "/api/images/player-11.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-12",
+    "name": "Majeed Ashimeru",
+    "position": "Ghanaischer Fußballer, Mittelfeldspieler",
+    "team": "von Anderlecht",
+    "imageUrl": "/api/images/player-12.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-13",
+    "name": "M'Bala Nzola",
+    "position": "Angolanischer Fußballer, Stürmer",
+    "team": "von Fiorentina",
+    "imageUrl": "/api/images/player-13.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-14",
+    "name": "Malick Diouf",
+    "position": "Senegalesischer Fußballer, Flügelspieler",
+    "team": "von Slavia Prag",
+    "imageUrl": "/api/images/player-14.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-15",
+    "name": "Ihor Kharatin",
+    "position": "Ukrainischer Fußballer, Mittelfeldspieler",
+    "team": "von Zorya Luhansk",
+    "imageUrl": "/api/images/player-15.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-16",
+    "name": "Florian Flecker",
+    "position": "Österreichischer Fußballer, Flügelspieler",
+    "team": "von LASK Linz",
+    "imageUrl": "/api/images/player-16.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-17",
+    "name": "Ramzi Safuri",
+    "position": "Israelischer Fußballer, Verteidiger",
+    "team": "von Hapoel Beer Sheva",
+    "imageUrl": "/api/images/player-17.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-18",
+    "name": "Dani de Wit",
+    "position": "Niederländischer Fußballer, Mittelfeldspieler",
+    "team": "von AZ Alkmaar",
+    "imageUrl": "/api/images/player-18.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-19",
+    "name": "Andreas Skov Olsen",
+    "position": "Dänischer Fußballer, Flügelspieler",
+    "team": "von Club Brügge",
+    "imageUrl": "/api/images/player-19.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-20",
+    "name": "Magnus Eikrem",
+    "position": "Norwegischer Fußballer, Mittelfeldspieler",
+    "team": "von Molde FK",
+    "imageUrl": "/api/images/player-20.png",
+    "type": "conference"
+  }
+]

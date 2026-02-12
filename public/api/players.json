@@ -1,0 +1,162 @@
+[
+  {
+    "id": "player-1",
+    "name": "Tomáš Chorý",
+    "position": "Futbolista checo, Delantero",
+    "team": "del Viktoria Plzeň",
+    "imageUrl": "/api/images/player-1.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-2",
+    "name": "Lindon Selahi",
+    "position": "Futbolista kosovar, Centrocampista",
+    "team": "del FC Ballkani",
+    "imageUrl": "/api/images/player-2.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-3",
+    "name": "Oleksandr Pikhalyonok",
+    "position": "Futbolista ucraniano, Centrocampista",
+    "team": "del Dnipro-1",
+    "imageUrl": "/api/images/player-3.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-4",
+    "name": "Uroš Đurđević",
+    "position": "Futbolista serbio, Delantero",
+    "team": "del Partizan Belgrado",
+    "imageUrl": "/api/images/player-4.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-5",
+    "name": "Yohan Boli",
+    "position": "Futbolista marfileño, Delantero",
+    "team": "del Sheriff Tiraspol",
+    "imageUrl": "/api/images/player-5.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-6",
+    "name": "Luka Capan",
+    "position": "Futbolista croata, Defensa",
+    "team": "del HNK Rijeka",
+    "imageUrl": "/api/images/player-6.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-7",
+    "name": "Ozan Tufan",
+    "position": "Futbolista turco, Centrocampista",
+    "team": "del Alanyaspor",
+    "imageUrl": "/api/images/player-7.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-8",
+    "name": "Marko Tolić",
+    "position": "Futbolista croata, Centrocampista",
+    "team": "del Slovan Bratislava",
+    "imageUrl": "/api/images/player-8.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-9",
+    "name": "Omri Altman",
+    "position": "Futbolista israelí, Extremo",
+    "team": "del Maccabi Tel Aviv",
+    "imageUrl": "/api/images/player-9.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-10",
+    "name": "Rafail Mamas",
+    "position": "Futbolista chipriota, Defensa",
+    "team": "del AEK Larnaca",
+    "imageUrl": "/api/images/player-10.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-11",
+    "name": "Hong Hyun-seok",
+    "position": "Futbolista surcoreano, Centrocampista",
+    "team": "del KAA Gent",
+    "imageUrl": "/api/images/player-11.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-12",
+    "name": "Majeed Ashimeru",
+    "position": "Futbolista ghanés, Centrocampista",
+    "team": "del Anderlecht",
+    "imageUrl": "/api/images/player-12.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-13",
+    "name": "M'Bala Nzola",
+    "position": "Futbolista angoleño, Delantero",
+    "team": "del Fiorentina",
+    "imageUrl": "/api/images/player-13.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-14",
+    "name": "Malick Diouf",
+    "position": "Futbolista senegalés, Extremo",
+    "team": "del Slavia Praga",
+    "imageUrl": "/api/images/player-14.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-15",
+    "name": "Ihor Kharatin",
+    "position": "Futbolista ucraniano, Centrocampista",
+    "team": "del Zorya Luhansk",
+    "imageUrl": "/api/images/player-15.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-16",
+    "name": "Florian Flecker",
+    "position": "Futbolista austriaco, Extremo",
+    "team": "del LASK Linz",
+    "imageUrl": "/api/images/player-16.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-17",
+    "name": "Ramzi Safuri",
+    "position": "Futbolista israelí, Lateral",
+    "team": "del Hapoel Beer Sheva",
+    "imageUrl": "/api/images/player-17.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-18",
+    "name": "Dani de Wit",
+    "position": "Futbolista holandés, Centrocampista",
+    "team": "del AZ Alkmaar",
+    "imageUrl": "/api/images/player-18.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-19",
+    "name": "Andreas Skov Olsen",
+    "position": "Futbolista danés, Extremo",
+    "team": "del Club Brugge",
+    "imageUrl": "/api/images/player-19.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-20",
+    "name": "Magnus Eikrem",
+    "position": "Futbolista noruego, Centrocampista",
+    "team": "del Molde FK",
+    "imageUrl": "/api/images/player-20.png",
+    "type": "conference"
+  }
+]

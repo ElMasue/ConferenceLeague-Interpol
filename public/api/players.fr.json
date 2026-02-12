@@ -1,0 +1,162 @@
+[
+  {
+    "id": "player-1",
+    "name": "Tomáš Chorý",
+    "position": "Footballeur tchèque, Attaquant",
+    "team": "du Viktoria Plzeň",
+    "imageUrl": "/api/images/player-1.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-2",
+    "name": "Lindon Selahi",
+    "position": "Footballeur kosovar, Milieu de terrain",
+    "team": "du FC Ballkani",
+    "imageUrl": "/api/images/player-2.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-3",
+    "name": "Oleksandr Pikhalyonok",
+    "position": "Footballeur ukrainien, Milieu de terrain",
+    "team": "du Dnipro-1",
+    "imageUrl": "/api/images/player-3.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-4",
+    "name": "Uroš Đurđević",
+    "position": "Footballeur serbe, Attaquant",
+    "team": "du Partizan Belgrade",
+    "imageUrl": "/api/images/player-4.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-5",
+    "name": "Yohan Boli",
+    "position": "Footballeur ivoirien, Attaquant",
+    "team": "du Sheriff Tiraspol",
+    "imageUrl": "/api/images/player-5.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-6",
+    "name": "Luka Capan",
+    "position": "Footballeur croate, Défenseur",
+    "team": "du HNK Rijeka",
+    "imageUrl": "/api/images/player-6.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-7",
+    "name": "Ozan Tufan",
+    "position": "Footballeur turc, Milieu de terrain",
+    "team": "d'Alanyaspor",
+    "imageUrl": "/api/images/player-7.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-8",
+    "name": "Marko Tolić",
+    "position": "Footballeur croate, Milieu de terrain",
+    "team": "du Slovan Bratislava",
+    "imageUrl": "/api/images/player-8.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-9",
+    "name": "Omri Altman",
+    "position": "Footballeur israélien, Ailier",
+    "team": "du Maccabi Tel Aviv",
+    "imageUrl": "/api/images/player-9.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-10",
+    "name": "Rafail Mamas",
+    "position": "Footballeur chypriote, Défenseur",
+    "team": "d'AEK Larnaca",
+    "imageUrl": "/api/images/player-10.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-11",
+    "name": "Hong Hyun-seok",
+    "position": "Footballeur sud-coréen, Milieu de terrain",
+    "team": "du KAA Gent",
+    "imageUrl": "/api/images/player-11.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-12",
+    "name": "Majeed Ashimeru",
+    "position": "Footballeur ghanéen, Milieu de terrain",
+    "team": "d'Anderlecht",
+    "imageUrl": "/api/images/player-12.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-13",
+    "name": "M'Bala Nzola",
+    "position": "Footballeur angolais, Attaquant",
+    "team": "de la Fiorentina",
+    "imageUrl": "/api/images/player-13.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-14",
+    "name": "Malick Diouf",
+    "position": "Footballeur sénégalais, Ailier",
+    "team": "du Slavia Prague",
+    "imageUrl": "/api/images/player-14.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-15",
+    "name": "Ihor Kharatin",
+    "position": "Footballeur ukrainien, Milieu de terrain",
+    "team": "du Zorya Luhansk",
+    "imageUrl": "/api/images/player-15.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-16",
+    "name": "Florian Flecker",
+    "position": "Footballeur autrichien, Ailier",
+    "team": "du LASK Linz",
+    "imageUrl": "/api/images/player-16.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-17",
+    "name": "Ramzi Safuri",
+    "position": "Footballeur israélien, Défenseur",
+    "team": "d'Hapoel Beer Sheva",
+    "imageUrl": "/api/images/player-17.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-18",
+    "name": "Dani de Wit",
+    "position": "Footballeur néerlandais, Milieu de terrain",
+    "team": "d'AZ Alkmaar",
+    "imageUrl": "/api/images/player-18.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-19",
+    "name": "Andreas Skov Olsen",
+    "position": "Footballeur danois, Ailier",
+    "team": "du Club Bruges",
+    "imageUrl": "/api/images/player-19.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-20",
+    "name": "Magnus Eikrem",
+    "position": "Footballeur norvégien, Milieu de terrain",
+    "team": "du Molde FK",
+    "imageUrl": "/api/images/player-20.png",
+    "type": "conference"
+  }
+]

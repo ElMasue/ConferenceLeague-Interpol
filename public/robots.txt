@@ -1,0 +1,7 @@
+# robots.txt para Conference League or Interpol
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://conferenceleague-or-interpol.web.app/sitemap.xml
