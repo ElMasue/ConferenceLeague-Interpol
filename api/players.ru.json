@@ -1,0 +1,162 @@
+[
+  {
+    "id": "player-1",
+    "name": "Tomáš Chorý",
+    "position": "Чешский футболист, Нападающий",
+    "team": "из Виктория Пльзень",
+    "imageUrl": "/api/images/player-1.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-2",
+    "name": "Lindon Selahi",
+    "position": "Косовский футболист, Полузащитник",
+    "team": "из ФК Балкани",
+    "imageUrl": "/api/images/player-2.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-3",
+    "name": "Oleksandr Pikhalyonok",
+    "position": "Украинский футболист, Полузащитник",
+    "team": "из Днепр-1",
+    "imageUrl": "/api/images/player-3.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-4",
+    "name": "Uroš Đurđević",
+    "position": "Сербский футболист, Нападающий",
+    "team": "из Партизан Белград",
+    "imageUrl": "/api/images/player-4.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-5",
+    "name": "Yohan Boli",
+    "position": "Ивуарийский футболист, Нападающий",
+    "team": "из Шериф Тирасполь",
+    "imageUrl": "/api/images/player-5.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-6",
+    "name": "Luka Capan",
+    "position": "Хорватский футболист, Защитник",
+    "team": "из ХНК Риека",
+    "imageUrl": "/api/images/player-6.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-7",
+    "name": "Ozan Tufan",
+    "position": "Турецкий футболист, Полузащитник",
+    "team": "из Аланьяспор",
+    "imageUrl": "/api/images/player-7.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-8",
+    "name": "Marko Tolić",
+    "position": "Хорватский футболист, Полузащитник",
+    "team": "из Слован Братислава",
+    "imageUrl": "/api/images/player-8.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-9",
+    "name": "Omri Altman",
+    "position": "Израильский футболист, Крайний",
+    "team": "из Маккаби Тель-Авив",
+    "imageUrl": "/api/images/player-9.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-10",
+    "name": "Rafail Mamas",
+    "position": "Кипрский футболист, Защитник",
+    "team": "из АЕК Ларнака",
+    "imageUrl": "/api/images/player-10.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-11",
+    "name": "Hong Hyun-seok",
+    "position": "Южнокорейский футболист, Полузащитник",
+    "team": "из КАА Гент",
+    "imageUrl": "/api/images/player-11.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-12",
+    "name": "Majeed Ashimeru",
+    "position": "Ганский футболист, Полузащитник",
+    "team": "из Андерлехт",
+    "imageUrl": "/api/images/player-12.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-13",
+    "name": "M'Bala Nzola",
+    "position": "Ангольский футболист, Нападающий",
+    "team": "из Фиорентина",
+    "imageUrl": "/api/images/player-13.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-14",
+    "name": "Malick Diouf",
+    "position": "Сенегальский футболист, Крайний",
+    "team": "из Славия Прага",
+    "imageUrl": "/api/images/player-14.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-15",
+    "name": "Ihor Kharatin",
+    "position": "Украинский футболист, Полузащитник",
+    "team": "из Заря Луганск",
+    "imageUrl": "/api/images/player-15.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-16",
+    "name": "Florian Flecker",
+    "position": "Австрийский футболист, Крайний",
+    "team": "из ЛАСК Линц",
+    "imageUrl": "/api/images/player-16.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-17",
+    "name": "Ramzi Safuri",
+    "position": "Израильский футболист, Защитник",
+    "team": "из Хапоэль Беэр-Шева",
+    "imageUrl": "/api/images/player-17.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-18",
+    "name": "Dani de Wit",
+    "position": "Голландский футболист, Полузащитник",
+    "team": "из АЗ Алкмар",
+    "imageUrl": "/api/images/player-18.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-19",
+    "name": "Andreas Skov Olsen",
+    "position": "Датский футболист, Крайний",
+    "team": "из Клуб Брюгге",
+    "imageUrl": "/api/images/player-19.png",
+    "type": "conference"
+  },
+  {
+    "id": "player-20",
+    "name": "Magnus Eikrem",
+    "position": "Норвежский футболист, Полузащитник",
+    "team": "из Молде",
+    "imageUrl": "/api/images/player-20.png",
+    "type": "conference"
+  }
+]
